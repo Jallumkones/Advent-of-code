@@ -1,4 +1,3 @@
-const { start } = require('repl');
 const puzzleFiveInput = require('./puzzleFiveInput.js');
 
 // console.log(puzzleFiveInput);
